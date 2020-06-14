@@ -1,2 +1,2 @@
-# cis201-template
-Template repository for generic cis201 project
+# Matrix Calculator built using OOP C++
+
